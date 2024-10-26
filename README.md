@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patsathorn Charoensiri
+Hi ! there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , You can call me "Gun" 👋
 ==============================================================================================================================================
 
-Aspiring Frontend Developer specializing in React.js
+About Me 😋
 ----------------------------------------------------
 
 I am currently studying to become a Frontend Developer, with a particular focus on React.js. I am passionate about creating efficient and user-friendly web applications and am eager to enhance my coding skills and UI/UX design capabilities.
