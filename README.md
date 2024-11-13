@@ -8,6 +8,7 @@ I am currently studying to become a Frontend Developer, with a particular focus 
 
 *   🌍  I'm based in Khonkaen, Thailand
 *   🖥️  See my portfolio at [My Portfolio](http://web-portfolio-eta-lac.vercel.app)
+*   🎃  My personal blog [Blog](https://devza.vercel.app/)
 *   ✉️  You can contact me at [patsathorn.c@kkumail.com](mailto:patsathorn.c@kkumail.com)
 *   🧠  I'm learning Component-based architecture in React, State management with hooks, React Router for navigation
 *   ⚡  🍿 My hobby are 📖 Learning, 📚 Relax in Library, 😍 Anime and manga, 🥘 Buffet with friend
