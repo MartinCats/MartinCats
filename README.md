@@ -9,7 +9,7 @@ About Me 😋
 I am currently studying to become a Frontend Developer, with a particular focus on React.js. I am passionate about creating efficient and user-friendly web applications and am eager to enhance my coding skills and UI/UX design capabilities.
 
 *   🌍  I'm based in Khonkaen, Thailand
-*   🖥️  See my portfolio at [My Portfolio](http://web-portfolio-eta-lac.vercel.app)
+*   🖥️  See my portfolio at [My Portfolio](https://port-gun.vercel.app/)
 *   🎃   My personal blog [Blog](https://devza.vercel.app/)
 *   ✉️  You can contact me at [patsathorn.c@kkumail.com](mailto:patsathorn.c@kkumail.com)
 *   🧠  I'm learning Component-based architecture in React, State management with hooks, React Router for navigation
