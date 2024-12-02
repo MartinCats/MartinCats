@@ -62,7 +62,7 @@ I am currently studying to become a Frontend Developer, with a particular focus 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCats&langs_count=10&title_color=f97316&text_color=444e59&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=MartinCats&color=orange)
+<br> ![](https://komarev.com/ghpvc/?username=MartinCats&color=orange)
 
                     
       
